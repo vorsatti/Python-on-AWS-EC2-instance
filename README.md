@@ -88,7 +88,7 @@ Let’s *transfer a python script from our local machine onto the EC2 instance* 
 
 Make sure you run this in a windows command line terminal and not the Putty terminal.
 
-*3.*Now connect to the EC2 instance in Putty and type in *ls* , this gives you the list of all files in the current working directory. Run that script using python *your_file_name.py* and you should see the output.
+*3.* Now connect to the EC2 instance in Putty and type in *ls* , this gives you the list of all files in the current working directory. Run that script using python *your_file_name.py* and you should see the output.
 
 If you want to open the python file, see it’s content and make changes to it you can use the following Linux commands in the Putty terminal.
 
