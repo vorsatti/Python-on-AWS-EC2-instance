@@ -68,7 +68,7 @@ Even after installing python 3.6, running *python --version* in the Putty termin
 
 *cd /tmp*
 
-*curl -O https:&#58;//bootstrap.pypa.io/get-pip.py*
+*curl -O ht<span>tps://</span>bootstrap.pypa.io/get-pip.py*
 
 *python3 get-pip.py --user*
 
